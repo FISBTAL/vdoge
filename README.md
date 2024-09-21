@@ -33,9 +33,9 @@ Doge Unblocker is a lightning-fast site unblocker designed for performance and s
 - ...and more!
 </details>
 
-## Current Developers:
-- [Derpman](https://github.com/DerpmanDev)
-- [KDust7](https://github.com/KDust7)
+## Current Developer:
+- [YZZGG_CGI]([https://github.com/FISBTAL])
+  
 ## Deployment
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/template/h7StcI?referralCode=u82tqg)
 <a href="https://render.com/deploy?repo=https://github.com/dogenetwork/doge-unblocker">
